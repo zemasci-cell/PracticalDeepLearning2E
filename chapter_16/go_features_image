@@ -1,0 +1,54 @@
+#  Generate samples and montages by class for each metric and feature vector type
+
+mkdir results/image 2>/dev/null
+mkdir results/image/euclidean 2>/dev/null
+mkdir results/image/cosine 2>/dev/null
+mkdir results/image/euclidean_layer10 2>/dev/null
+mkdir results/image/cosine_layer10 2>/dev/null
+
+python3 features_image_retrieval.py vgg16 airplane   5 10 euclidean results/image/euclidean/airplane
+python3 features_image_retrieval.py vgg16 automobile 5 10 euclidean results/image/euclidean/automobile
+python3 features_image_retrieval.py vgg16 bird       5 10 euclidean results/image/euclidean/bird
+python3 features_image_retrieval.py vgg16 cat        5 10 euclidean results/image/euclidean/cat
+python3 features_image_retrieval.py vgg16 deer       5 10 euclidean results/image/euclidean/deer
+python3 features_image_retrieval.py vgg16 dog        5 10 euclidean results/image/euclidean/dog
+python3 features_image_retrieval.py vgg16 frog       5 10 euclidean results/image/euclidean/frog
+python3 features_image_retrieval.py vgg16 horse      5 10 euclidean results/image/euclidean/horse
+python3 features_image_retrieval.py vgg16 ship       5 10 euclidean results/image/euclidean/ship
+python3 features_image_retrieval.py vgg16 truck      5 10 euclidean results/image/euclidean/truck
+
+python3 features_image_retrieval.py vgg16 airplane   5 10 cosine results/image/cosine/airplane
+python3 features_image_retrieval.py vgg16 automobile 5 10 cosine results/image/cosine/automobile
+python3 features_image_retrieval.py vgg16 bird       5 10 cosine results/image/cosine/bird
+python3 features_image_retrieval.py vgg16 cat        5 10 cosine results/image/cosine/cat
+python3 features_image_retrieval.py vgg16 deer       5 10 cosine results/image/cosine/deer
+python3 features_image_retrieval.py vgg16 dog        5 10 cosine results/image/cosine/dog
+python3 features_image_retrieval.py vgg16 frog       5 10 cosine results/image/cosine/frog
+python3 features_image_retrieval.py vgg16 horse      5 10 cosine results/image/cosine/horse
+python3 features_image_retrieval.py vgg16 ship       5 10 cosine results/image/cosine/ship
+python3 features_image_retrieval.py vgg16 truck      5 10 cosine results/image/cosine/truck
+
+python3 features_image_retrieval.py layer10 airplane   5 10 euclidean results/image/euclidean_layer10/airplane
+python3 features_image_retrieval.py layer10 automobile 5 10 euclidean results/image/euclidean_layer10/automobile
+python3 features_image_retrieval.py layer10 bird       5 10 euclidean results/image/euclidean_layer10/bird
+python3 features_image_retrieval.py layer10 cat        5 10 euclidean results/image/euclidean_layer10/cat
+python3 features_image_retrieval.py layer10 deer       5 10 euclidean results/image/euclidean_layer10/deer
+python3 features_image_retrieval.py layer10 dog        5 10 euclidean results/image/euclidean_layer10/dog
+python3 features_image_retrieval.py layer10 frog       5 10 euclidean results/image/euclidean_layer10/frog
+python3 features_image_retrieval.py layer10 horse      5 10 euclidean results/image/euclidean_layer10/horse
+python3 features_image_retrieval.py layer10 ship       5 10 euclidean results/image/euclidean_layer10/ship
+python3 features_image_retrieval.py layer10 truck      5 10 euclidean results/image/euclidean_layer10/truck
+
+python3 features_image_retrieval.py layer10 airplane   5 10 cosine results/image/cosine_layer10/airplane
+python3 features_image_retrieval.py layer10 automobile 5 10 cosine results/image/cosine_layer10/automobile
+python3 features_image_retrieval.py layer10 bird       5 10 cosine results/image/cosine_layer10/bird
+python3 features_image_retrieval.py layer10 cat        5 10 cosine results/image/cosine_layer10/cat
+python3 features_image_retrieval.py layer10 deer       5 10 cosine results/image/cosine_layer10/deer
+python3 features_image_retrieval.py layer10 dog        5 10 cosine results/image/cosine_layer10/dog
+python3 features_image_retrieval.py layer10 frog       5 10 cosine results/image/cosine_layer10/frog
+python3 features_image_retrieval.py layer10 horse      5 10 cosine results/image/cosine_layer10/horse
+python3 features_image_retrieval.py layer10 ship       5 10 cosine results/image/cosine_layer10/ship
+python3 features_image_retrieval.py layer10 truck      5 10 cosine results/image/cosine_layer10/truck
+
+python3 features_image_retrieval_montage.py
+

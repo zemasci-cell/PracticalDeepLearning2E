@@ -1,0 +1,12 @@
+cloud, elephant, bicycle, time, music, city, water, mountain, smile, cloud
+moon, tree, book, water, fire, music, dance, time, space, emotion
+tree, house, bird, ocean, book, music, smile, sunset, door, cloud
+ocean, kitten, volcano, door, sunset, smile, bicycle, snowflake, library, time
+cloud, mountain, river, sunset, smile, ocean, book, music, moonlight, time
+moon, forest, music, water, fire, time, dream, smile, freedom, laughter
+moon, water, fire, music, book, tree, house, apple, emotion, cloud
+serendipity, nostalgia, effervescent, whimsy, ennui, sagacious, kintsugi, luminescence, vigilance, jejune
+cloud, mountain, ocean, fire, music, love, tree, book, kite, smile
+ocean, music, fire, tree, smile, cloud, book, dog, moonlight, freedom
+moon, ocean, music, garden, clouds, mountain, bird, water, fire, smile
+

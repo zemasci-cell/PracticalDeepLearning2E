@@ -1,0 +1,21 @@
+Naive Bayes classifier (Gaussian):
+    score = 0.4237
+
+Nearest centroid:
+    score = 0.4272
+
+k-NN classifier (k=3):
+    score = 0.3551
+
+k-NN classifier (k=7):
+    score = 0.3674
+
+Random forest classifier (estimators=100):
+    score = 0.4434
+
+Random forest classifier (estimators=400):
+    score = 0.4842
+
+MLP classifier (512,256):
+    score = 0.5776
+

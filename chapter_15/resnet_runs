@@ -1,0 +1,26 @@
+#
+#  file: resnet_runs
+#
+#  Use the ResNet-18 model to train 5x models with and without
+#  batch norm.
+#
+#  RTK, 18-Aug-2023
+#  Last update:  18-Aug-2023
+#
+################################################################
+mkdir runs 2>/dev/null
+
+#  without batch normalization
+python3 resnet18.py 128 10 0 runs/resnet_b128_e10_no_bn_run0
+python3 resnet18.py 128 10 0 runs/resnet_b128_e10_no_bn_run1
+python3 resnet18.py 128 10 0 runs/resnet_b128_e10_no_bn_run2
+python3 resnet18.py 128 10 0 runs/resnet_b128_e10_no_bn_run3
+python3 resnet18.py 128 10 0 runs/resnet_b128_e10_no_bn_run4
+
+#  with batch normalization
+python3 resnet18.py 128 10 1 runs/resnet_b128_e10_bn_run0
+python3 resnet18.py 128 10 1 runs/resnet_b128_e10_bn_run1
+python3 resnet18.py 128 10 1 runs/resnet_b128_e10_bn_run2
+python3 resnet18.py 128 10 1 runs/resnet_b128_e10_bn_run3
+python3 resnet18.py 128 10 1 runs/resnet_b128_e10_bn_run4
+

@@ -1,0 +1,10 @@
+Raw features:
+    animal anomaly  :  178 (0.03560)
+    frog anomaly    :   90 (0.01800)
+    airplane anomaly:  321 (0.06420)
+
+Layer 10 features:
+    animal anomaly  :  179 (0.03580)
+    frog anomaly    :  139 (0.02780)
+    airplane anomaly:  332 (0.06640)
+

@@ -1,0 +1,15 @@
+Correct detection of all digits: 0.84667 (threshold=0.10)
+
+Correct detection by digit:
+    0: 0.91282
+    1: 0.98441
+    2: 0.91973
+    3: 0.93632
+    4: 0.91770
+    5: 0.90640
+    6: 0.93969
+    7: 0.95641
+    8: 0.90622
+    9: 0.93476
+ mean: 0.93145
+

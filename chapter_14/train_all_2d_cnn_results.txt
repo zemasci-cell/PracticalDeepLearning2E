@@ -1,0 +1,12 @@
+3x3: accuracy: 74.687
+3x3: accuracy: 72.562
+3x3: accuracy: 79.312
+3x3: accuracy: 76.187
+3x3: accuracy: 75.937
+3x3: accuracy: 74.563
+7x7: accuracy: 77.812
+7x7: accuracy: 76.875
+7x7: accuracy: 76.500
+7x7: accuracy: 73.687
+7x7: accuracy: 73.625
+7x7: accuracy: 78.562

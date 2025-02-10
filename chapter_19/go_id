@@ -1,0 +1,27 @@
+python3 generate_unconditional_images.py results/mnist_gan_latent_10_128_80000/generator.h5 10 10000 /tmp/ttt.npy 42 2>/dev/null; python3 id_dataset.py /tmp/ttt.npy
+python3 generate_unconditional_images.py results/mnist_gan_latent_40_128_80000/generator.h5 40 10000 /tmp/ttt.npy 42 2>/dev/null; python3 id_dataset.py /tmp/ttt.npy
+python3 generate_unconditional_images.py results/mnist_gan_latent_80_128_80000/generator.h5 80 10000 /tmp/ttt.npy 42 2>/dev/null; python3 id_dataset.py /tmp/ttt.npy
+echo
+
+python3 generate_unconditional_images.py results/mnist_cnn2_gan_latent_10_128_12000/generator.h5 10 10000 /tmp/ttt.npy 42 2>/dev/null; python3 id_dataset.py /tmp/ttt.npy
+python3 generate_unconditional_images.py results/mnist_cnn2_gan_latent_40_128_12000/generator.h5 40 10000 /tmp/ttt.npy 42 2>/dev/null; python3 id_dataset.py /tmp/ttt.npy
+python3 generate_unconditional_images.py results/mnist_cnn2_gan_latent_80_128_12000/generator.h5 80 10000 /tmp/ttt.npy 42 2>/dev/null; python3 id_dataset.py /tmp/ttt.npy
+python3 generate_unconditional_images.py results/mnist_cnn2_gan_latent_120_128_12000/generator.h5 120 10000 /tmp/ttt.npy 42 2>/dev/null; python3 id_dataset.py /tmp/ttt.npy
+python3 generate_unconditional_images.py results/mnist_cnn2_gan_latent_160_128_12000/generator.h5 160 10000 /tmp/ttt.npy 42 2>/dev/null; python3 id_dataset.py /tmp/ttt.npy
+echo
+
+python3 generate_conditional_images.py results/mnist_conditional_v2_latent_10_128_12000/generator.h5 random 10 10000 /tmp/ttt.npy 2>/dev/null; 
+python3 id_dataset.py /tmp/ttt.npy
+python3 generate_conditional_images.py results/mnist_conditional_v2_latent_80_128_12000/generator.h5 random 80 10000 /tmp/ttt.npy 2>/dev/null; 
+python3 id_dataset.py /tmp/ttt.npy
+python3 generate_conditional_images.py results/mnist_conditional_v2_latent_160_128_12000/generator.h5 random 160 10000 /tmp/ttt.npy 2>/dev/null; 
+python3 id_dataset.py /tmp/ttt.npy
+echo
+
+python3 generate_conditional_images.py results/fmnist_conditional_v2_latent_10_128_12000/generator.h5 random 10 10000 /tmp/ttt.npy 2>/dev/null; 
+python3 id_dataset.py /tmp/ttt.npy
+python3 generate_conditional_images.py results/fmnist_conditional_v2_latent_80_128_12000/generator.h5 random 80 10000 /tmp/ttt.npy 2>/dev/null; 
+python3 id_dataset.py /tmp/ttt.npy
+python3 generate_conditional_images.py results/fmnist_conditional_v2_latent_160_128_12000/generator.h5 random 160 10000 /tmp/ttt.npy 2>/dev/null; 
+python3 id_dataset.py /tmp/ttt.npy
+

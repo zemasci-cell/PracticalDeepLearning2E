@@ -1,0 +1,66 @@
+python3 exp_fixed_steps.py 1 2>/dev/null
+python3 exp_fixed_steps.py 1 2>/dev/null
+python3 exp_fixed_steps.py 1 2>/dev/null
+python3 exp_fixed_steps.py 1 2>/dev/null
+python3 exp_fixed_steps.py 1 2>/dev/null
+
+python3 exp_fixed_steps.py 2 2>/dev/null
+python3 exp_fixed_steps.py 2 2>/dev/null
+python3 exp_fixed_steps.py 2 2>/dev/null
+python3 exp_fixed_steps.py 2 2>/dev/null
+python3 exp_fixed_steps.py 2 2>/dev/null
+
+python3 exp_fixed_steps.py 4 2>/dev/null
+python3 exp_fixed_steps.py 4 2>/dev/null
+python3 exp_fixed_steps.py 4 2>/dev/null
+python3 exp_fixed_steps.py 4 2>/dev/null
+python3 exp_fixed_steps.py 4 2>/dev/null
+
+python3 exp_fixed_steps.py 8 2>/dev/null
+python3 exp_fixed_steps.py 8 2>/dev/null
+python3 exp_fixed_steps.py 8 2>/dev/null
+python3 exp_fixed_steps.py 8 2>/dev/null
+python3 exp_fixed_steps.py 8 2>/dev/null
+
+python3 exp_fixed_steps.py 16 2>/dev/null
+python3 exp_fixed_steps.py 16 2>/dev/null
+python3 exp_fixed_steps.py 16 2>/dev/null
+python3 exp_fixed_steps.py 16 2>/dev/null
+python3 exp_fixed_steps.py 16 2>/dev/null
+
+python3 exp_fixed_steps.py 32 2>/dev/null
+python3 exp_fixed_steps.py 32 2>/dev/null
+python3 exp_fixed_steps.py 32 2>/dev/null
+python3 exp_fixed_steps.py 32 2>/dev/null
+python3 exp_fixed_steps.py 32 2>/dev/null
+
+python3 exp_fixed_steps.py 64 2>/dev/null
+python3 exp_fixed_steps.py 64 2>/dev/null
+python3 exp_fixed_steps.py 64 2>/dev/null
+python3 exp_fixed_steps.py 64 2>/dev/null
+python3 exp_fixed_steps.py 64 2>/dev/null
+
+python3 exp_fixed_steps.py 128 2>/dev/null
+python3 exp_fixed_steps.py 128 2>/dev/null
+python3 exp_fixed_steps.py 128 2>/dev/null
+python3 exp_fixed_steps.py 128 2>/dev/null
+python3 exp_fixed_steps.py 128 2>/dev/null
+
+python3 exp_fixed_steps.py 256 2>/dev/null
+python3 exp_fixed_steps.py 256 2>/dev/null
+python3 exp_fixed_steps.py 256 2>/dev/null
+python3 exp_fixed_steps.py 256 2>/dev/null
+python3 exp_fixed_steps.py 256 2>/dev/null
+
+python3 exp_fixed_steps.py 512 2>/dev/null
+python3 exp_fixed_steps.py 512 2>/dev/null
+python3 exp_fixed_steps.py 512 2>/dev/null
+python3 exp_fixed_steps.py 512 2>/dev/null
+python3 exp_fixed_steps.py 512 2>/dev/null
+
+python3 exp_fixed_steps.py 1024 2>/dev/null
+python3 exp_fixed_steps.py 1024 2>/dev/null
+python3 exp_fixed_steps.py 1024 2>/dev/null
+python3 exp_fixed_steps.py 1024 2>/dev/null
+python3 exp_fixed_steps.py 1024 2>/dev/null
+

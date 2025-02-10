@@ -1,0 +1,4 @@
+cifar10_cnn.py:           0.7208889126777649
+cifar10_cnn_SGD.py:       0.7066666483879089
+cifar10_cnn_deep.py:      0.7481111288070679
+cifar10_cnn_SGD_deep.py:  0.7367777824401855

@@ -1,0 +1,16 @@
+dogs
+border collie dog
+german shepherd dog
+dalmation dog
+belgian malinois dog
+poodle dog
+cats
+siamese cat
+persian cat
+maine coon cat
+bengal cat
+sphynx cat
+wolves
+gray wolf
+arctic wolf
+red wolf

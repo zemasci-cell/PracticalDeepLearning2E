@@ -1,0 +1,6 @@
+python3 resnet18_pooling.py 128 10 1 1 runs/resnet_pooling_max_run0
+python3 resnet18_pooling.py 128 10 1 1 runs/resnet_pooling_max_run1
+python3 resnet18_pooling.py 128 10 1 1 runs/resnet_pooling_max_run2
+python3 resnet18_pooling.py 128 10 1 1 runs/resnet_pooling_max_run3
+python3 resnet18_pooling.py 128 10 1 1 runs/resnet_pooling_max_run4
+
