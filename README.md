@@ -1,4 +1,5 @@
 "Practical Deep Learning: A Python-Based Introduction"
+------------------------------------------------------
 (second edition)
 
 The source code included or referenced in the book is in this
