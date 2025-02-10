@@ -1,0 +1,17 @@
+#  Extract block features
+mkdir features 2>/dev/null
+python3 rot_extract_features.py results/rot_128_10/model.h5 1 features/rot_128_10_blk1
+python3 rot_extract_features.py results/rot_128_10/model.h5 2 features/rot_128_10_blk2
+python3 rot_extract_features.py results/rot_128_10/model.h5 3 features/rot_128_10_blk3
+python3 rot_extract_features.py results/rot_128_10/raw.h5 1 features/rot_128_10_raw_blk1
+python3 rot_extract_features.py results/rot_128_10/raw.h5 2 features/rot_128_10_raw_blk2
+python3 rot_extract_features.py results/rot_128_10/raw.h5 3 features/rot_128_10_raw_blk3
+
+#  Run all classical models for all blocks
+python3 classic_models.py features/rot_128_10_blk3_cifar10_features_train.npy features/rot_128_10_blk3_cifar10_features_test.npy >rot_128_10_blk3_results.txt
+python3 classic_models.py features/rot_128_10_blk2_cifar10_features_train.npy features/rot_128_10_blk2_cifar10_features_test.npy >rot_128_10_blk2_results.txt
+python3 classic_models.py features/rot_128_10_blk1_cifar10_features_train.npy features/rot_128_10_blk1_cifar10_features_test.npy >rot_128_10_blk1_results.txt
+python3 classic_models.py features/rot_128_10_raw_blk3_cifar10_features_train.npy features/rot_128_10_raw_blk3_cifar10_features_test.npy >rot_128_10_raw_blk3_results.txt
+python3 classic_models.py features/rot_128_10_raw_blk2_cifar10_features_train.npy features/rot_128_10_raw_blk2_cifar10_features_test.npy >rot_128_10_raw_blk2_results.txt
+python3 classic_models.py features/rot_128_10_raw_blk1_cifar10_features_train.npy features/rot_128_10_raw_blk1_cifar10_features_test.npy >rot_128_10_raw_blk1_results.txt
+

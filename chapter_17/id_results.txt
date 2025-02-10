@@ -1,0 +1,20 @@
+Intrinsic dimensionality (MLE): 9       mnist_gan_latent_10
+Intrinsic dimensionality (MLE): 10      mnist_gan_latent_40
+Intrinsic dimensionality (MLE): 9       mnist_gan_latent_80
+
+Intrinsic dimensionality (MLE): 19      mnist_cnn_gan_latent_20
+Intrinsic dimensionality (MLE): 19      mnist_cnn_gan_latent_40
+Intrinsic dimensionality (MLE): 19      mnist_cnn_gan_latent_60
+Intrinsic dimensionality (MLE): 19      mnist_cnn_gan_latent_100
+Intrinsic dimensionality (MLE): 20      mnist_cnn_gan_latent_200
+
+Intrinsic dimensionality (MLE): 6       mnist_conditional_latent_5
+Intrinsic dimensionality (MLE): 11      mnist_conditional_latent_20
+Intrinsic dimensionality (MLE): 13      mnist_conditional_latent_60
+Intrinsic dimensionality (MLE): 13      mnist_conditional2_latent_60
+Intrinsic dimensionality (MLE): 14      mnist_conditional_latent_100
+
+Intrinsic dimensionality (MLE): 10      fmnist_conditional_latent_20
+Intrinsic dimensionality (MLE): 15      fmnist_conditional_latent_60
+Intrinsic dimensionality (MLE): 14      fmnist_conditional_latent_100
+

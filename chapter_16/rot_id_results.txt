@@ -1,0 +1,60 @@
+
+Purity:
+    raw features        : 0.2140
+    pretrained features : 0.3150
+
+Intrinsic dimension:
+    raw features        : 20.00
+    pretrained features : 54.00
+    original features   : 29.00
+
+
+Purity:
+    raw features        : 0.2150
+    pretrained features : 0.2470
+
+Intrinsic dimension:
+    raw features        : 25.00
+    pretrained features : 62.00
+    original features   : 29.00
+
+
+Purity:
+    raw features        : 0.2150
+    pretrained features : 0.3020
+
+Intrinsic dimension:
+    raw features        : 25.00
+    pretrained features : 67.00
+    original features   : 29.00
+
+
+Purity:
+    raw features        : 0.2080
+    pretrained features : 0.2990
+
+Intrinsic dimension:
+    raw features        : 27.00
+    pretrained features : 53.00
+    original features   : 29.00
+
+
+Purity:
+    raw features        : 0.2150
+    pretrained features : 0.2430
+
+Intrinsic dimension:
+    raw features        : 25.00
+    pretrained features : 52.00
+    original features   : 29.00
+
+
+Purity:
+    raw features        : 0.2180
+    pretrained features : 0.2460
+
+Intrinsic dimension:
+    raw features        : 25.00
+    pretrained features : 35.00
+    original features   : 29.00
+

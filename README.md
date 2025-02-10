@@ -4,7 +4,8 @@
 
 The source code included or referenced in the book is in this
 archive.  The code is organized by chapter.  If the chapter is not listed,
-there's no code to go with it.
+there's no code to go with it.  Color figures mentioned in the book
+are in the 'figures' directory.
 
 All code is Python 3.X and requires the libraries installed in Chapter 0
 of the book.

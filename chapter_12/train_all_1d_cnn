@@ -1,0 +1,50 @@
+#  train all 1D CNN models
+
+python3 -W ignore esc10_audio_cnn_shallow.py  3  2>/dev/null
+python3 -W ignore esc10_audio_cnn_medium.py   3  2>/dev/null
+python3 -W ignore esc10_audio_cnn_deep0.py    3  2>/dev/null
+python3 -W ignore esc10_audio_cnn_deep1.py    3  2>/dev/null
+python3 -W ignore esc10_audio_cnn_deep2.py    3  2>/dev/null
+
+python3 -W ignore esc10_audio_cnn_shallow.py  5  2>/dev/null
+python3 -W ignore esc10_audio_cnn_medium.py   5  2>/dev/null
+python3 -W ignore esc10_audio_cnn_deep0.py    5  2>/dev/null
+python3 -W ignore esc10_audio_cnn_deep1.py    5  2>/dev/null
+python3 -W ignore esc10_audio_cnn_deep2.py    5  2>/dev/null
+
+python3 -W ignore esc10_audio_cnn_shallow.py  7  2>/dev/null
+python3 -W ignore esc10_audio_cnn_medium.py   7  2>/dev/null
+python3 -W ignore esc10_audio_cnn_deep0.py    7  2>/dev/null
+python3 -W ignore esc10_audio_cnn_deep1.py    7  2>/dev/null
+python3 -W ignore esc10_audio_cnn_deep2.py    7  2>/dev/null
+
+python3 -W ignore esc10_audio_cnn_shallow.py  9  2>/dev/null
+python3 -W ignore esc10_audio_cnn_medium.py   9  2>/dev/null
+python3 -W ignore esc10_audio_cnn_deep0.py    9  2>/dev/null
+python3 -W ignore esc10_audio_cnn_deep1.py    9  2>/dev/null
+python3 -W ignore esc10_audio_cnn_deep2.py    9  2>/dev/null
+
+python3 -W ignore esc10_audio_cnn_shallow.py 11  2>/dev/null
+python3 -W ignore esc10_audio_cnn_medium.py  11  2>/dev/null
+python3 -W ignore esc10_audio_cnn_deep0.py   11  2>/dev/null
+python3 -W ignore esc10_audio_cnn_deep1.py   11  2>/dev/null
+python3 -W ignore esc10_audio_cnn_deep2.py   11  2>/dev/null
+
+python3 -W ignore esc10_audio_cnn_shallow.py 13  2>/dev/null
+python3 -W ignore esc10_audio_cnn_medium.py  13  2>/dev/null
+python3 -W ignore esc10_audio_cnn_deep0.py   13  2>/dev/null
+python3 -W ignore esc10_audio_cnn_deep1.py   13  2>/dev/null
+python3 -W ignore esc10_audio_cnn_deep2.py   13  2>/dev/null
+
+python3 -W ignore esc10_audio_cnn_shallow.py 15  2>/dev/null
+python3 -W ignore esc10_audio_cnn_medium.py  15  2>/dev/null
+python3 -W ignore esc10_audio_cnn_deep0.py   15  2>/dev/null
+python3 -W ignore esc10_audio_cnn_deep1.py   15  2>/dev/null
+python3 -W ignore esc10_audio_cnn_deep2.py   15  2>/dev/null
+
+python3 -W ignore esc10_audio_cnn_shallow.py 33  2>/dev/null
+python3 -W ignore esc10_audio_cnn_medium.py  33  2>/dev/null
+python3 -W ignore esc10_audio_cnn_deep0.py   33  2>/dev/null
+python3 -W ignore esc10_audio_cnn_deep1.py   33  2>/dev/null
+python3 -W ignore esc10_audio_cnn_deep2.py   33  2>/dev/null
+

@@ -1,0 +1,18 @@
+#
+#  file: resnet_pooling_runs
+#
+#  Use the ResNet-18 model to train a single model with BN
+#  and either max or average pooling
+#
+#  RTK, 09-Sep-2023
+#  Last update:  09-Sep-2023
+#
+################################################################
+mkdir runs 2>/dev/null
+
+#  max pooling
+python3 resnet18_pooling.py 128 10 1 1 runs/resnet_pooling_max
+
+#  average pooling
+python3 resnet18_pooling.py 128 10 1 0 runs/resnet_pooling_average
+

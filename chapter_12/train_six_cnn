@@ -1,0 +1,7 @@
+python3 esc10_cnn_deep.py 3 prob_run0.npy 2>/dev/null
+python3 esc10_cnn_deep.py 3 prob_run1.npy 2>/dev/null
+python3 esc10_cnn_deep.py 3 prob_run2.npy 2>/dev/null
+python3 esc10_cnn_deep.py 3 prob_run3.npy 2>/dev/null
+python3 esc10_cnn_deep.py 3 prob_run4.npy 2>/dev/null
+python3 esc10_cnn_deep.py 3 prob_run5.npy 2>/dev/null
+

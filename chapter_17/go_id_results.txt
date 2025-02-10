@@ -1,0 +1,17 @@
+Intrinsic dimensionality (MLE): 15
+Intrinsic dimensionality (MLE): 16
+Intrinsic dimensionality (MLE): 16
+
+Intrinsic dimensionality (MLE): 15
+Intrinsic dimensionality (MLE): 18
+Intrinsic dimensionality (MLE): 18
+Intrinsic dimensionality (MLE): 18
+Intrinsic dimensionality (MLE): 18
+
+Intrinsic dimensionality (MLE): 10
+Intrinsic dimensionality (MLE): 14
+Intrinsic dimensionality (MLE): 15
+
+Intrinsic dimensionality (MLE): 9
+Intrinsic dimensionality (MLE): 14
+Intrinsic dimensionality (MLE): 16

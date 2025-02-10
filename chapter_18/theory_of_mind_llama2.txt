@@ -1,0 +1,27 @@
+>>> Mary told Amanda that she was in love with John. Amanda told Kathy
+... what Mary had said. A week later, Mary told Amanda that she was no
+... longer in love with John but was now in love with Ralph. After that,
+... Amanda spoke with Kathy about the weather. Who does Kathy think is
+... Mary’s love?
+
+Based on the information provided, Kathy thinks that Mary's love is Ralph.
+
+Here's how we can deduce this:
+
+1. Mary told Amanda that she was in love with John. (Fact 1)
+2. Amanda told Kathy what Mary had said. (Fact 2)
+3. A week later, Mary told Amanda that she was no longer in love with John but was now in love with Ralph. (Fact 3)
+
+Using the information provided, we can create a simple diagram to represent the relationships between the characters and the events:
+```
+Mary -- love -- John
+                   |
+Amanda -- tell -- Kathy
+                   |
+Mary -- tell -- Amanda
+                   |
+Mary -- love -- Ralph
+```
+Based on this diagram, we can see that Mary was in love with John, but a week later, she was no longer in love with him and was now in love with Ralph. Since Amanda told 
+Kathy about Mary's initial declaration of love for John, Kathy must think that John is Mary's former love interest.
+

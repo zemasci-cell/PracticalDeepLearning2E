@@ -1,0 +1,9 @@
+#  Train all six combinations of dataset and batch normalization
+
+python3 unet.py 32 20 0 blank  results/m2nist_32_20_0_blank
+python3 unet.py 32 20 0 land   results/m2nist_32_20_0_land
+python3 unet.py 32 20 0 subtle results/m2nist_32_20_0_subtle
+python3 unet.py 32 20 1 blank  results/m2nist_32_20_1_blank
+python3 unet.py 32 20 1 land   results/m2nist_32_20_1_land
+python3 unet.py 32 20 1 subtle results/m2nist_32_20_1_subtle
+
