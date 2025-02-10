@@ -1,4 +1,0 @@
-quart, swarm, serf, scone, serpent, saddle, sparrow, swarm, stone, straw
-quart, serge, lullaby, clang, swarm, zephyr, wane, mote, quagmire, quince
-pebble, eon, serpent, sable, quagmire, quince, quart, quag, quash, quelch
-dream, stone, rhythm, light, table, mirror, bread, pen, hope, thunder

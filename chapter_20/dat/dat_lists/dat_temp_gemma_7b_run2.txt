@@ -1,4 +1,0 @@
-quart, swarm, serf, scone, serpent, saddle, sparrow, swarm, stone, straw
-rock, dream, hope, light, fury, peace, joy, thunder, stone, sky
-table, tesseract, tripod, trough, throne, tsunami, turnip, tusk, ton, top
-scone, serpent, soup, swarm, snow, slate, sparrow, staple, stone, straw

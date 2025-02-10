@@ -1,5 +1,0 @@
-python3 cifar10_cnn.py
-python3 cifar10_cnn_SGD.py
-python3 cifar10_cnn_deep.py
-python3 cifar10_cnn_SGD_deep.py
-

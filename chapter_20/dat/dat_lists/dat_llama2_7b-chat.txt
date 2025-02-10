@@ -1,5 +1,0 @@
-moonlight, jellyfish, volcano, bicycle, kangaroo, guitar, fountain, banana, cloud, computer 
-tree, fish, house, car, sun, book, dog, mountain, river, smile
-tree, fish, house, music, fire, water, mountain, cloud, moon, smile
-tree, music, cloud, water, fire, mountain, moon, smile, memory, silence
-snow, music, fire, water, sky, tree, book, dog, love, time

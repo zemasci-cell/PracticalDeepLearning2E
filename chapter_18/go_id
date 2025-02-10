@@ -1,7 +1,0 @@
-python3 rot_tsne_plots.py results/rot_128_20
-python3 rot_tsne_plots.py results/rot16_128_20
-python3 rot_tsne_plots.py results/rot32_128_20
-python3 rot_tsne_plots.py results/blend_128_20
-python3 rot_tsne_plots.py results/iproc_0_128_20
-python3 rot_tsne_plots.py results/iproc_1_128_20
-

@@ -1,1 +1,0 @@
-I will supply you with a set of seven short stories separated by "|" characters.  I want you to assess the level of creativity in each.  Be as concise and possible in your assessment, and quantitative, if possible.  Stories: 

@@ -1,4 +1,0 @@
-quart, swarm, serf, scone, serpent, saddle, sparrow, swarm, stone, straw
-quart, frock, wither, serge, lure, glean, quagmire, inert, zephyr, quag
-dream, rock, light, path, table, sword, hope, mirror, cloud, book
-aether, ballast, caput, conge, curate, equivocal, farcical, gauntlet, halcyon, icon

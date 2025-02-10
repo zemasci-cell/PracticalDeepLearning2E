@@ -1,6 +1,0 @@
-rm -rf dat_score_mistral_7b_results.txt
-python3 dat_score.py mistral:7b-instruct dat_lists/dat_gemma_7b-instruct.txt   >>dat_score_mistral_7b_results.txt
-python3 dat_score.py mistral:7b-instruct dat_lists/dat_mistral_7b-instruct.txt >>dat_score_mistral_7b_results.txt
-python3 dat_score.py mistral:7b-instruct dat_lists/dat_llama2_7b-chat.txt      >>dat_score_mistral_7b_results.txt
-python3 dat_score.py mistral:7b-instruct dat_lists/dat_llama2_13b-chat.txt     >>dat_score_mistral_7b_results.txt
-

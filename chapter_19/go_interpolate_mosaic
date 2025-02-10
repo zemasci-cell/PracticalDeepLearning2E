@@ -1,8 +1,0 @@
-python3 interpolate_mosaic.py results/mnist_conditional_v2_latent_10_128_12000/generator.h5 10 mnist_interpolate_latent_10_seed_42.png 42
-python3 interpolate_mosaic.py results/mnist_conditional_v2_latent_80_128_12000/generator.h5 80 mnist_interpolate_latent_80_seed_42.png 42
-python3 interpolate_mosaic.py results/mnist_conditional_v2_latent_160_128_12000/generator.h5 160 mnist_interpolate_latent_160_seed_42.png 42
-
-python3 interpolate_mosaic.py results/mnist_conditional_v2_latent_10_128_12000/generator.h5 10 mnist_interpolate_latent_10_seed_359.png 359
-python3 interpolate_mosaic.py results/mnist_conditional_v2_latent_80_128_12000/generator.h5 80 mnist_interpolate_latent_80_seed_359.png 359
-python3 interpolate_mosaic.py results/mnist_conditional_v2_latent_160_128_12000/generator.h5 160 mnist_interpolate_latent_160_seed_359.png 359
-

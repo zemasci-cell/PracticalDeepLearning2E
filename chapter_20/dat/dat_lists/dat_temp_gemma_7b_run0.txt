@@ -1,4 +1,0 @@
-quart, swarm, serf, scone, serpent, saddle, sparrow, swarm, stone, straw
-aether, ball, cask, flute, gallop, hammock, igloo, kaleidoscope, loam, muse
-aether, bat, box, congeal, flume, hallow, hydrangea, igloo, jubilee, zebra
-aether, apse, bat, boil, bud, cage, cap, churn, dawn, dream

@@ -1,4 +1,0 @@
-python3 blend.py 128 20 results/blend_128_20
-python3 iproc.py 0 128 20 results/iproc_0_128_20
-python3 iproc.py 1 128 20 results/iproc_1_128_20
-

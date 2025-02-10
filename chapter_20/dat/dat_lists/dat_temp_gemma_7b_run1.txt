@@ -1,4 +1,0 @@
-quart, swarm, serf, scone, serpent, saddle, sparrow, swarm, stone, straw
-stone, wind, dream, hope, fury, light, flower, book, mirror, soap
-serpent, swarm, sphinx, slate, sail, sand, savant, savory, serene, shell
-dream, table, fruit, anchor, box, river, sword, stone, mirror, wind

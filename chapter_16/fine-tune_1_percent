@@ -1,8 +1,0 @@
-#  fine-tune w/1 percent of CIFAR-10 training data
-
-python3 fine-tune_vgg16_sgd.py 32 60 imagenet 3 results/fine-tune_vgg16_fraction_sgd_32_60_001_run0 0.01
-python3 fine-tune_vgg16_sgd.py 32 60 imagenet 3 results/fine-tune_vgg16_fraction_sgd_32_60_001_run1 0.01
-python3 fine-tune_vgg16_sgd.py 32 60 imagenet 3 results/fine-tune_vgg16_fraction_sgd_32_60_001_run2 0.01
-python3 fine-tune_vgg16_sgd.py 32 60 imagenet 3 results/fine-tune_vgg16_fraction_sgd_32_60_001_run3 0.01
-python3 fine-tune_vgg16_sgd.py 32 60 imagenet 3 results/fine-tune_vgg16_fraction_sgd_32_60_001_run4 0.01
-
