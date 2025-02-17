@@ -15,7 +15,7 @@ __All datasets are available for download:__
 
 [All the datasets (2.4 GB)](https://drive.google.com/file/d/1ZZl0r7TO57uRl5qweQ6pCAelkMpYoD6e/view?usp=sharing)
 
-Expand the tarball to the directory holding the chapter subdirectories.
+Expand the tarball in the directory holding the chapter subdirectories.
 
 
 Please send questions, comments, or bugs to:
