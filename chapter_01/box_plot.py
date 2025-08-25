@@ -1,6 +1,11 @@
 import numpy as np
 import matplotlib.pyplot as plt 
 
+# Table 1.6 Standardized Data,
+# After feature scaling by mean centering and changing 
+# the standard deviation to 1.
+# This is done so that features don't dominate others 
+# because of their range.
 d = [[ 0.6930, -1.1259, -1.5318,  0.9525,  1.1824],
      [ 0.5464, -0.0120,  0.5051, -0.0192, -0.1141],
      [ 0.8912,  1.3826,  1.5193, -1.1996, -1.1403],
